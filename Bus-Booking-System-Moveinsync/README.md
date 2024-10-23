@@ -10,7 +10,7 @@ Visual studio code
 ## Installing
 Clone the repository to your local machine:
 
-`git clone https://github.com/sidhant0720/Bus-Booking-System-Moveinsync.git`
+`git clone https://github.com/pranshulagrawal999/Move_in_sync_bus_booking_system.git`
 
 
 ## Running the Program
